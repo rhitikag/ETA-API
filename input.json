@@ -1,0 +1,22 @@
+{
+  "vendor_id": "CMT",
+  "passenger_count": 2,
+  "distance_km": 5.73,
+  "bearing": 128.4,
+  "pickup_hour": 14,
+  "pickup_weekday": 3,
+  "pickup_month": 7,
+  "pickup_dayofyear": 198,
+  "pickup_minute": 35,
+  "hour_sin": 0.5,
+  "hour_cos": -0.866,
+  "pickup_cluster": 12,
+  "dropoff_cluster": 27,
+  "p_median_trip_min": 14.2,
+  "p_mean_speed_kmph": 24.8,
+  "p_count": 1834,
+  "p2_median_trip_min": 16.9,
+  "p2_mean_speed_kmph": 22.3,
+  "p2_count": 967,
+  "manhattan_dist": 6.41
+}
